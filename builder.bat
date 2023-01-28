@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=qr-code.ico --add-data="icons;icons" main.py
